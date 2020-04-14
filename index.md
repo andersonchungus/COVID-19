@@ -8,17 +8,25 @@ The Harker Middle School, currently located at 3800 Blackford Ave, San Jose, CA 
 
 ```markdown
 # Some Basic Facts
-- the country of Taiwan, with a population of around 23 million, can produce nearly 13 million N95 medical grade face masks a day, totalling 273 million a month.
+- the country of Taiwan, with a population of around 23 million, can produce 
+nearly 13 million N95 medical grade face masks a day, totalling 273 million a
+month.
 
-- the US can make around 90 million a month, _and_ continues to discourage the use of masks.
+- the US can make around 90 million a month, _and_ continues to discourage the
+use of masks.
 
-- Covid-19 can travel by air, water, insects, and can also stay up to 9 days alive on surfaces.
+- Covid-19 can travel by air, water, insects, and can also stay up to 9 days 
+alive on surfaces.
 
-- Social distancing measures put in place do help, although 6 feet is _minimal._
+- Social distancing measures put in place do help, although 6 feet is
+_minimal._
 
-- New studies show that a sneeze can travel as far as 27 feet, as far as a 4-lane freeway.
+- New studies show that a sneeze can travel as far as 27 feet, as far as a 
+4-lane freeway.
 
-- Also, don't be a jerk on the road. Cars, contrary to popular belief, _do not_ need to maintain social distancing, so keep on driving normally and don't be paranoid for no reason.
+- Also, don't be a jerk on the road. Cars, contrary to popular belief, 
+_do not_ need to maintain social distancing, so keep on driving normally 
+and don't be paranoid for no reason.
 
 ```
 # Personal Account: Andy Chung
